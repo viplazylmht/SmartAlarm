@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Smart Alarm</string>
+    <string name="app_name">SmartAlarm</string>
+    <string name="title_activity_alarm_set">alarm_set</string>
 </resources>
